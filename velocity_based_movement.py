@@ -97,5 +97,5 @@ while counter<5:
     time.sleep(1)
     counter+=1
     
-condition_yaw(90)
+condition_yaw(90) # yaws 90 degrees clockwise at 5 deg/s (parameters can be modified in condition_yaw function above)
 
